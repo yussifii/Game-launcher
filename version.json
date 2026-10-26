@@ -7,7 +7,7 @@
     },
     "1.8": {
       "next_version": "1.8.1",
-      "url": "https://link-to-patch-1.8-to-1.8.1.delta"
+      "url": "https://github.com/yussifii/Game-launcher/raw/refs/heads/main/patch_1.8_to_1.8.1.delta"
     }
   }
 }
