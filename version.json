@@ -3,7 +3,7 @@
   "patches": {
     "1.7": {
       "next_version": "1.8",
-      "url": "https://raw.githubusercontent.com/yussifii/Game-launcher/main/patch_1.7_to_1.8.delta"
+      "url": "https://github.com/yussifii/Game-launcher/raw/refs/heads/main/patch_1.7_to_1.8.delta"
     }
   }
 }
