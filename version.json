@@ -1,4 +1,9 @@
 {
-  "latest_version": "1.7",
-  "patches": {}
+  "latest_version": "1.8",
+  "patches": {
+    "1.7": {
+      "next_version": "1.8",
+      "url": "https://raw.githubusercontent.com/yussifii/Game-launcher/main/patch_1.7_to_1.8.delta"
+    }
+  }
 }
