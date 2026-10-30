@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.8.5",
+  "latest_version": "1.8.6",
   "patches": {
     "1.7": {
       "next_version": "1.8",
@@ -24,6 +24,10 @@
     "1.8.4": {
       "next_version": "1.8.5",
       "url": "https://github.com/yussifii/Game-launcher/releases/download/v1.8.5/patch_1.8.4_to_1.8.5.delta"
+    },
+    "1.8.5": {
+      "next_version": "1.8.6",
+      "url": "https://github.com/yussifii/Game-launcher/raw/refs/heads/main/patch_1.8.5_to_1.8.6.delta"
     }
   }
 }
