@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.9.1",
+  "latest_version": "1.9.2",
   "patches": {
     "1.7": {
       "next_version": "1.8",
@@ -48,6 +48,10 @@
     "1.9": {
       "next_version": "1.9.1",
       "url": "https://github.com/yussifii/Game-launcher/raw/refs/heads/main/patch_1.9_to_1.9.1.delta"
+      },
+    "1.9.1": {
+      "next_version": "1.9.2",
+      "url": "https://github.com/yussifii/Game-launcher/raw/refs/heads/main/patch_1.9.1_to_1.9.2.delta"
     }
   }
 }
